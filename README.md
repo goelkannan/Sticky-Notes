@@ -38,11 +38,7 @@ A lightweight and interactive sticky notes web app built with HTML, CSS, and van
 - Max character limit per note: **96 characters**
 - Notes are not saved across sessions (no persistence)
 
-## 📷 Screenshots
 
-> _Add screenshots here if you'd like!_
-
-## 📄 License
 
 This project is open-source and free to use.
 
